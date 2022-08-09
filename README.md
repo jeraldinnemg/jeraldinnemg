@@ -8,7 +8,7 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
 
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [jeraldinnemg@gmail.com](mailto:jeraldinnemg@gmail.com)
-*   🧠  I'm learning Java and Testing QA
+*   🧠  I'm learning Infraestructure and Frontend development
 *   🤝  I'm open to collaborating on Cripto projects
 *   ⚡  I love running and workout
 
