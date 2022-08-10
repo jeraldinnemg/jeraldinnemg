@@ -25,7 +25,6 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                                 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
   
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/></a>
                                 
 </div>
                     
