@@ -31,12 +31,14 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
                     
 # - Mis estadísticas de Github
 <div align="center">
-<a href="http://www.github.com/jeraldinnemg/github-readme-stats">
-  <img width="417" align="center" src="http://www.github.com/jeraldinnemg/github-readme-stats"/>
+<div align="center">
+<a href="https://github.com/jeraldinnemg/github-readme-stats">
+  <img width="417" align="center" src="https://github-readme-stats.vercel.app/api?username=jeraldinnemg&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/MatiToledo/convoychat">
-  <img width="350" align="center" src="http://www.github.com/jeraldinnemg/github-readme-stats" />
+<a href="https://github.com/jeraldinnemg/convoychat">
+  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldinnemg&layout=compact&theme=tokyonight" />
 </a>
+</div>
 </div>
 
 <br />
