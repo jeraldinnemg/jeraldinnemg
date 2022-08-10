@@ -24,18 +24,18 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
                                 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-                                
-                            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  
+                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/></a>
                                 
 </div>
                     
 # - Mis estadísticas de Github
 <div align="center">
 <a href="http://www.github.com/jeraldinnemg/github-readme-stats">
-  <img width="417" align="center" src="https://github-readme-stats.vercel.app/api?username=MatiToledo&show_icons=true&theme=tokyonight" />
+  <img width="417" align="center" src="http://www.github.com/jeraldinnemg/github-readme-stats"/>
 </a>
 <a href="https://github.com/MatiToledo/convoychat">
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiToledo&layout=compact&theme=tokyonight" />
+  <img width="350" align="center" src="http://www.github.com/jeraldinnemg/github-readme-stats" />
 </a>
 </div>
 
