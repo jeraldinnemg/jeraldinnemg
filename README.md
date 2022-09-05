@@ -13,7 +13,7 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
 *   ⚡  I love running and workout
 
 
-# - Skills
+## My Skills
 
 <div align="center">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -28,7 +28,7 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
                                 
 </div>
                     
-# - Mis estadísticas de Github
+## GitHub Statics
 <div align="center">
 <div align="center">
 <a href="https://github.com/jeraldinnemg/github-readme-stats">
@@ -42,12 +42,10 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
 
 <br />
 
-# - Contacto!
-<a href="mailto:jeraldinnemg@gmail.com">
-  <img align="left" alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
-</a>
-<a href="https://www.linkedin.com/in/jeraldinne-molleda/">
-  <img align="left" alt="LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<br />
+## Get in contact with me!
+
+[![Behance: jeraldinnemg](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeralidea)
+[![Linkedin: jeraldinnemg](https://img.shields.io/badge/-dianaledist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeraldinne-molleda/)
+[![Mail: jeraldinnemg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtojeraldinnemg@gmail.com)
+[![Twitter: jeraldinnemg](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeralidea)
 
