@@ -45,7 +45,7 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
 ## Get in contact with me!
 
 [![Behance: jeraldinnemg](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/jeralidea)
-[![Linkedin: jeraldinnemg](https://img.shields.io/badge/-jeraldinne-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeraldinne-molleda/)](https://www.linkedin.com/in/jeraldinne-molleda/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeraldinne-molleda/)](https://www.linkedin.com/in/jeraldinne-molleda/)
 [![Mail: jeraldinnemg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailtojeraldinnemg@gmail.com)
 [![Twitter: jeraldinnemg](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeralidea)
 
