@@ -1,14 +1,14 @@
 Hi 👋 My name is Jeraldinne
 ===========================
 
-Tech developer on building
+Solution architect on building
 --------------------------
 
 I've been learning to code for 2 years. I'm Certified tech developer student, career impulsed by Digital House, Mercado Libre and Globant
 
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [jeraldinnemg@gmail.com](mailto:jeraldinnemg@gmail.com)
-*   🧠  I'm learning Infraestructure and Frontend development
+*   🧠  I'm learning Infraestructure and Cloud Providers like Azure, AWS and GCP.
 *   🤝  I'm open to collaborating on Cripto projects
 *   ⚡  I love running and workout
 
