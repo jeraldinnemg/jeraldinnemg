@@ -8,8 +8,8 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
 
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [jeraldinnemg@gmail.com](mailto:jeraldinnemg@gmail.com)
-*   🧠  I'm learning Infraestructure and Cloud Providers like Azure, AWS and GCP.
-*   🤝  I'm open to collaborating on Cripto projects
+*   🧠  I'm learning Infraestructure and Cloud.
+*   🤝  I'm open to collaborating on Fintech projects
 *   ⚡  I love running and workout
 
 
