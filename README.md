@@ -1,7 +1,7 @@
 Hi 👋 My name is Jeraldinne
 ===========================
 
-Solution architect on building
+Technical architect on building
 --------------------------
 
 I've been learning to code for 2 years. I'm Certified tech developer student, career impulsed by Digital House, Mercado Libre and Globant
