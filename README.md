@@ -7,10 +7,10 @@ Technical architect on building
 I've been learning to code for 2 years. I'm Certified tech developer student, career impulsed by Digital House, Mercado Libre and Globant
 
 *   🌍  I'm based in Argentina
-*   ✉️  You can contact me at [jeraldinnemg@gmail.com](mailto:jeraldinnemg@gmail.com)
-*   🧠  I'm learning Infraestructure and Cloud.
-*   🤝  I'm open to collaborating on Fintech projects
+*   🎓  I have a degree in Chemical Enginnering.
+*   🧠  I'm learning Infraestructure and Cloud Computing.
 *   ⚡  I love running and workout
+*   ✉️  You can contact me at [jeraldinnemg@gmail.com](mailto:jeraldinnemg@gmail.com)
 
 
 ## My Skills
