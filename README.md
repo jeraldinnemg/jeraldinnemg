@@ -1,10 +1,10 @@
 Hi 👋 My name is Jeraldinne
 ===========================
 
-Technical architect on building
+DevOps Enginner
 --------------------------
 
-I've been learning to code for 2 years. I'm Certified tech developer student, career impulsed by Digital House, Mercado Libre and Globant
+I've been learning to code for 3 years. I'm Certified tech developer, career impulsed by Digital House, Mercado Libre and Globant
 
 *   🌍  I'm based in Argentina
 *   🎓  I have a degree in Chemical Enginnering.
@@ -14,6 +14,16 @@ I've been learning to code for 2 years. I'm Certified tech developer student, ca
 
 
 ## My Skills
+
+##### **Infrastructure**
+
+![Azure Artifacts](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Artifacts&color=CB2E6D&logo=Azure+Artifacts&logoColor=FFFFFF&label=)
+![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
+![Azure Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label=)
+![Azure Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Pipelines&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label=)
+[Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 
 ##### **Frontend**
 
