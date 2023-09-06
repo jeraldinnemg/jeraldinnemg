@@ -21,7 +21,6 @@ I've been learning to code for 3 years. I'm Certified tech developer, career imp
 ![Azure DevOps](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+DevOps&color=0078D7&logo=Azure+DevOps&logoColor=FFFFFF&label=)
 ![Azure Functions](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label=)
 ![Azure Pipelines](https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Pipelines&color=2560E0&logo=Azure+Pipelines&logoColor=FFFFFF&label=)
-[Ansible](https://img.shields.io/static/v1?style=for-the-badge&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
 
@@ -35,15 +34,14 @@ I've been learning to code for 3 years. I'm Certified tech developer, career imp
 
 ##### **Backend**
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
-##### **Deployment**
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
-##### **Tools**
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+##### **  IDE'S **
+![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+##### ** Tools **
 ![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)                            
 </div>
