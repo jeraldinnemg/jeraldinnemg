@@ -46,20 +46,7 @@ I've been learning to code for 3 years. I'm Certified tech developer, career imp
 ![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)                            
 </div>
                     
-## GitHub Statics
 
-<div align="center">
-<div align="center">
-<a href="https://github.com/jeraldinnemg/github-readme-stats">
-  <img width="417" align="center" src="https://github-readme-stats.vercel.app/api?username=jeraldinnemg&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/jeraldinnemg/convoychat">
-  <img width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeraldinnemg&layout=compact&theme=tokyonight" />
-</a>
-</div>
-</div>
-
-<br />
 
 
 ## Get in contact with me!
