@@ -6,7 +6,6 @@ DevOps Enginner
 
 I've been learning to code for 3 years. I'm Certified tech developer, career impulsed by Digital House, Mercado Libre and Globant
 
-*   🌍  I'm based in Argentina
 *   🎓  I have a degree in Chemical Enginnering.
 *   🧠  I'm learning Infraestructure and Cloud Computing.
 *   ⚡  I love running and workout
