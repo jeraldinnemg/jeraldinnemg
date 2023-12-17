@@ -1,10 +1,8 @@
 Hi 👋 My name is Jeraldinne
 ===========================
 
-DevOps Enginner
+DevOps Enginner @EY GDS
 --------------------------
-
-I've been learning to code for 3 years. I'm Certified tech developer, career impulsed by Digital House, Mercado Libre and Globant
 
 *   🎓  I have a degree in Chemical Enginnering.
 *   🧠  I'm learning Infraestructure and Cloud Computing.
