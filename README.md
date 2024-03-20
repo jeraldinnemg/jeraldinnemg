@@ -1,4 +1,4 @@
-Hi 👋 My name is Jeraldinne
+Hi <img src="./assets/wave.gif" width="30px" height="30px" />  My name is Jeraldinne
 ===========================
 
 DevOps Enginner @EY GDS
@@ -44,6 +44,14 @@ DevOps Enginner @EY GDS
 </div>
                     
 <br />
+
+<br/>
+
+## Github Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ea-morales&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
+
+<br>
 
 ## Get in contact with me!
 
