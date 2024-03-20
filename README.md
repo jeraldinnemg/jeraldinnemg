@@ -49,7 +49,7 @@ DevOps Enginner @EY GDS
 
 ## Github Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ea-morales&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeraldinnemg&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
 
 <br>
 
