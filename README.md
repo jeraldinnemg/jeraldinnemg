@@ -1,4 +1,4 @@
-Hi <img src="./assets/wave.gif" width="30px" height="30px" />  My name is Jeraldinne
+Hi 👋 My name is Jeraldinne
 ===========================
 
 DevOps Enginner @EY GDS
@@ -44,8 +44,6 @@ DevOps Enginner @EY GDS
 </div>
                     
 <br />
-
-<br/>
 
 ## Github Stats
 
