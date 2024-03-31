@@ -45,12 +45,6 @@ DevOps Enginner @EY GDS
                     
 <br />
 
-## Github Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeraldinnemg&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
-
-<br>
-
 ## Get in contact with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeraldinne-molleda/)](https://www.linkedin.com/in/jeraldinne-molleda/)
