@@ -1,7 +1,7 @@
 Hi 👋 My name is Jeraldinne
 ===========================
 
-DevOps Enginner @EY GDS
+Site Reliability Engineer @ExxxonMobil 
 --------------------------
 
 *   🎓  I have a degree in Chemical Enginnering.
