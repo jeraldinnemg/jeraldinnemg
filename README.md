@@ -2,7 +2,7 @@
 
 # Hi, I'm Jeraldinne 👋
 
-### Site Reliability Engineer → AI/MLOps Engineer in progress
+### Site Reliability Engineer → AI/MLOps enthusiastic
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldinne-molleda/)
 [![Gmail](https://img.shields.io/badge/-jeraldinnemg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeraldinnemg@gmail.com)
@@ -54,7 +54,6 @@ I'm a **Site Reliability Engineer at ExxonMobil** (Buenos Aires, Argentina), sup
 ![Google Gemini](https://img.shields.io/static/v1?style=for-the-badge&message=Gemini+AI&color=8E75B2&logo=Google&logoColor=FFFFFF&label=)
 
 #### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
