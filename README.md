@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Site Reliability Engineer at ExxonMobil** (Buenos Aires, Argentina), supporting an Oil&Gas platform with **+2,300 users and +1,900 machines** across a hybrid infrastructure. My work bridges infrastructure reliability and developer experience.
+I'm a **Site Reliability Engineer at ExxonMobil** (Buenos Aires, Argentina), supporting an Oil&Gas platform across a hybrid infrastructure. My work bridges infrastructure reliability and developer experience.
 
 - Currently working on: observability pipelines, IaC automation, and AI agentic workflows
 - Studying: ML fundamentals, data analysis, supervised learning, reinforcement learning (AI Post graduate program)
